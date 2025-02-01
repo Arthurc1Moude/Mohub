@@ -1,0 +1,12 @@
+﻿[
+    {
+        "name": "Project A",
+        "description": "A JavaScript framework",
+        "link": "https://your-server.com/projectA"
+    },
+    {
+        "name": "Project B",
+        "description": "A modern CSS toolkit",
+        "link": "https://your-server.com/projectB"
+    }
+]
